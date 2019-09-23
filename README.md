@@ -1,6 +1,5 @@
 Zachary Ikpefua | Clemson ECE 3220
 # Project 4: Recovering the lost Bits (FAT12)
-README
 
 KNOWN PROBLEMS: None, works as expected
 
