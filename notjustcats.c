@@ -36,7 +36,7 @@
 #define END_FILE 0xfff
 #define DEL_FILE 0x00
 /*
-Function: decodeFAT
+Function: find_data
 Inputs: Fat table, logical cluster
 Purpose: Find the correct data entry for the given logical cluster
 translate into 0xf60 and 0x05f
